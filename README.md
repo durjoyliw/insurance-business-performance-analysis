@@ -29,22 +29,22 @@ In this portfolio analysis, I examined insurance company business performance fr
 Bancassurance channel dominates business performance with $139.91B in value generation, representing 57% of total distribution volume. Geographic analysis reveals strong profitability patterns in major metropolitan markets with customers showing 3-5 year tenure brackets driving premium stability. Cost structure analysis indicates optimization opportunities in commission ratios and operational expenses across different distribution channels.
 
 ## Business Insights
-1. Distribution Channel Concentration Indicates Strategic Focus Area
+**Distribution Channel Concentration Indicates Strategic Focus Area**
 - Finding: Bancassurance generates $139.91B (57%) of total business value, significantly outperforming traditional broker channels ($33.80B) and direct sales
 - Business Impact: Channel concentration suggests opportunity to expand successful bancassurance partnerships while maintaining diversified distribution risk
 - Recommendation: Partner with Business Development team to expand strategic bank partnerships and optimize resource allocation toward highest-performing distribution channels
 
-2. Geographic Market Performance Shows Clear Expansion Opportunities
+**Geographic Market Performance Shows Clear Expansion Opportunities**
 - Finding: Major metropolitan markets (Mumbai, Bangalore, Pune) show consistently higher profitability with customers maintaining 3+ year policy tenure
 - Business Impact: Geographic concentration indicates underserved markets with expansion potential worth $25M+ in premium growth
 - Recommendation: Work with Market Expansion team to develop market entry strategies for underperforming regions based on successful metropolitan market patterns
 
-3. Customer Demographics Reveal Target Market Optimization Potential
+**Customer Demographics Reveal Target Market Optimization Potential**
 - Finding: Average customer age of 34.45 years with consistent premium contribution, but tenure analysis shows retention improvements after 3-5 year customer lifecycle
 - Business Impact: Customer lifecycle understanding could improve retention rates and lifetime value by 20-30%
 - Recommendation: Collaborate with Product and Marketing teams to develop age-specific products and retention programs targeting 3-5 year customer milestones
 
-4. Cost Structure Analysis Identifies Margin Improvement Opportunities
+**Cost Structure Analysis Identifies Margin Improvement Opportunities**
 - Finding: Commission ratios and operational expenses vary significantly across distribution channels with optimization potential
 - Business Impact: Cost structure optimization could improve overall profit margins by 5-10% without sacrificing distribution effectiveness
 - Recommendation: Partner with Finance team to implement channel-specific cost management strategies and performance-based compensation structures

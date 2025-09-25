@@ -23,6 +23,8 @@ In this portfolio analysis, I examined insurance company business performance fr
 - Distribution Performance: Revenue comparison across Bancassurance, Broker, Partner Branches, and Direct channels
 - Operational Efficiency: Cost ratio analysis including commission structures and operational expenses
 
+![Dashboard](Dashoard.png)
+
 ## BExecutive Summary
 Bancassurance channel dominates business performance with $139.91B in value generation, representing 57% of total distribution volume. Geographic analysis reveals strong profitability patterns in major metropolitan markets with customers showing 3-5 year tenure brackets driving premium stability. Cost structure analysis indicates optimization opportunities in commission ratios and operational expenses across different distribution channels.
 

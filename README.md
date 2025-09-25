@@ -1,11 +1,11 @@
 # Insurance Company Business Performance Analysis - Distribution Channel & Market Optimization
 
 
-## BBusiness Context
+## Business Context
 
 In this portfolio analysis, I examined insurance company business performance from the perspective of a Business Analyst supporting the Executive Leadership and Sales Operations teams' strategic planning for distribution channel optimization, market expansion, and operational efficiency improvements across an insurance business generating $245.91B in total premiums.
 
-## BBusiness Question
+## Business Question
 **Primary Question:**
  - Which distribution channels, geographic markets, and customer segments drive the strongest business performance, and where should we focus our growth and optimization efforts?
 
@@ -15,7 +15,7 @@ In this portfolio analysis, I examined insurance company business performance fr
 - What geographic markets and customer demographics show the strongest profitability and growth potential?
 - How can we optimize our cost structure and operational efficiency to improve overall margins?
 
-## BKey Business Metrics Analyzed
+## Business Metrics Analyzed
 
 - Premium Revenue: $245.91B total premium generation across multiple distribution channels
 - Business Value Creation: $230.82B in total equity value with peak channel performance of $49.17M
@@ -25,7 +25,7 @@ In this portfolio analysis, I examined insurance company business performance fr
 
 ![Dashboard](Dashoard.png)
 
-## BExecutive Summary
+## Executive Summary
 Bancassurance channel dominates business performance with $139.91B in value generation, representing 57% of total distribution volume. Geographic analysis reveals strong profitability patterns in major metropolitan markets with customers showing 3-5 year tenure brackets driving premium stability. Cost structure analysis indicates optimization opportunities in commission ratios and operational expenses across different distribution channels.
 
 ## Business Insights
